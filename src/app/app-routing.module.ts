@@ -16,11 +16,3 @@ export const routes: Routes = [
     title: 'Home details'
   }
 ];
-
-// @NgModule({
-//   declarations: [],
-//   imports: [
-//     RouterModule.forRoot(routes)],
-//     exports: [RouterModule]
-// })
-// export class AppRoutingModule { }
